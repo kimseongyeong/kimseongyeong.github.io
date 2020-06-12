@@ -13,5 +13,5 @@
 
 ### ME
 ```mark
-![Me](./image/me)
+![Me](./image/me.jpg)
 ```
