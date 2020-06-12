@@ -13,5 +13,5 @@
 
 ### ME
 ```mark
-![Me](kimseongyeong.github.io/image/me.jpg)
+![Me](/home/s21900116/oss2020/gitpage/image/me.jpg)
 ```
