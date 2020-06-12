@@ -13,6 +13,5 @@
 
 ### ME
 ```mark
-![Me](./image/me.jpg)
-<img src="https://postfiles.pstatic.net/MjAxOTEyMjlfODgg/MDAxNTc3NjAxNjY5OTkz.81m2aILAjfH9b2TZnEUPs36tAd55W8XEvoxUYH6g0wgg.iocPWgu4jR9lQdCUSaLh2ezZnfkivTOz1w94EiLxhREg.JPEG.tjddud0115/IMG_0348.JPG?type=w773">
+![Me](/home/s21900116/oss2020/gitpage/image/me.jpg)
 ```
